@@ -43,7 +43,7 @@ Your feedback is essential to us! If you have any questions, comments, or sugges
 
 ## License
 
-Scrummy is licensed under the ISC License. See the [LICENSE](LICENSE) file for more details.
+Scrummy is licensed under the ISC License.
 
 ---
 
